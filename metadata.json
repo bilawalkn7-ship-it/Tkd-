@@ -1,0 +1,6 @@
+{
+  "name": "Taekwondo Master",
+  "description": "Interactive Taekwondo martial arts training academy, technique practice simulator, and sparring game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
